@@ -20,23 +20,23 @@ Inheritance-related information that can be found in the other documents is also
 Inheritable elements
 -------------------
 **Contents**: Mall, Enterprise Edition, inheritance, inheritance settings, assignments, inheritable elements, products, attributes, selection lists, shipping costs, shipping cost rules, manufacturers, distributors, discounts, coupons, gift wrapping, news, links |br|
-:doc:`Read article <vererbbare-elemente>` |link|
+:doc:`Read article <inheritable-elements>` |link|
 
 Non-inheritable elements
 -------------------------
 **Contents**: Mall, Enterprise Edition, inheritance, non-heritable elements, shop configuration, assignment to promotions, CMS pages, orders |br|
-:doc:`Read article <nicht-vererbbare-elemente>` |link|
+:doc:`Read article <non-inheritable-elements>` |link|
 
 Shared elements
 -----------------
 **Contents**: Mall, Enterprise Edition, inheritance, shared elements, payment methods, countries, languages, users, user groups, reviews |br|
-:doc:`Read article <geteilte-elemente>` |link|
+:doc:`Read article <shared-elements>` |link|
 
 Customisation
 ------------------
 **Contents**: Mall, Enterprise Edition, inheritance, customisation, inheritance settings, product price, alternative prices, scale prices, rights and roles, SEO, config.inc.php, aMultishopArticleFields, oxfield2shops |br|
-:doc:`Read article <individualisierung>` |link|
+:doc:`Read article <customisation>` |link|
 
-.. seealso:: :doc:`Users <../../../betrieb/benutzer/benutzer>`
+.. seealso:: :doc:`Users <../../../operation/users/users>`
 
 .. Intern: oxbago, Status:
